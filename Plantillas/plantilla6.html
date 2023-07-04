@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Page Design</title>
+    <style>
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border th {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+            table.border td {
+                padding: 5px;
+                border: 1px solid black;
+            }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <td style="width:20%"></td>
+            <td style="width:60%" align="center">
+                <table>
+                    <tr><td align="center">OVER THE ROAD</td></tr>
+                    <tr><td align="center">Reporte</td></tr>
+                    <tr><td align="center">Departamento: Bodega</td></tr>
+                </table>
+            </td>
+            <td style="width:20%">
+                <table class="border" style="width:100%">
+                    <tr><td align="center">Codigo: 324234</td></tr>
+                    <tr><td align="center">REPORTE</td></tr>
+                    <tr><td align="center">No. 00000123</td></tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td colspan="3" height="20"></td></tr>
+        <tr>
+            <td colspan="2">
+                <table style="width:100%">
+                    <tr>
+                        <td colspan="1" style="width:20%">USUARIO:</td>
+                        <td colspan="3" style="width:80%;border-bottom:1px solid black">@USUARIO</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">REPORTE:</td>
+                        <td colspan="1" style="width:30%;border-bottom:1px solid black">@REPORTE</td>
+                        <td colspan="1" style="width:10%">FECHA:</td>
+                        <td colspan="1" style="width:40%;border-bottom:1px solid black">@FECHA</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td colspan="3" height="20"></td></tr>
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width:100%">
+                    <thead style="background-color:#D8D8D8">
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Usuario</th>
+                            <th>Id Compra</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @FILAS
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
