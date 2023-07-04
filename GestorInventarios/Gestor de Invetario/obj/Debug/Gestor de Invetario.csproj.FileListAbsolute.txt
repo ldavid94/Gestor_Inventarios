@@ -1,0 +1,90 @@
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.exe.config
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.exe
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CircularProgressBar.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\itextsharp.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.Shared.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\WinFormAnimation.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\itextsharp.xmlworker.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaModelo.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\stdole.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaControlador.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CircularProgressBar.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\itextsharp.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaModelo.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor_de_Invetario.Properties.Resources.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.GenerateResource.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.exe
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.exe.manifest
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.application
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.exe.manifest
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.application
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.AssemblyReference.cache
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor_de_Invetario.Properties.Resources.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.GenerateResource.cache
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.exe
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.exe.config
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.exe.manifest
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.application
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.exe
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Gestor de Invetario.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaVista.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaControlador.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CircularProgressBar.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\itextsharp.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.Shared.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\WinFormAnimation.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\itextsharp.xmlworker.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaModelo.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\stdole.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaVista.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaControlador.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CircularProgressBar.xml
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\itextsharp.xml
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\bin\Debug\CapaModelo.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.CoreCompileInputs.cache
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.exe.manifest
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.application
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\Gestor de Invetario\obj\Debug\Gestor de Invetario.csproj.CopyComplete

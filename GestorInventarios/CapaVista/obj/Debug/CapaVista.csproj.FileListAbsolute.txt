@@ -1,0 +1,184 @@
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarEntrada.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarInventario.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarSalida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarAlmacen.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarEntrada.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarProductos.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarProveedores.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarSalida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Usuarios.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CapaModelo.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarProducto.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Bitacora.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Notificaciones.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Menu.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Menu2.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\stdole.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Principal.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.SolicitudCompra.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Bienvenida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CircularProgressBar.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\WinFormAnimation.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\bin\Debug\CircularProgressBar.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.Dashboard.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.fmrReportes.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\PG2\GestorInventarios\CapaVista\obj\Debug\CapaVista.frmSCompra.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CircularProgressBar.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\WinFormAnimation.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaModelo.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\stdole.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CircularProgressBar.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Bienvenida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Bitacora.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarEntrada.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarInventario.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarProducto.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarSalida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Dashboard.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarAlmacen.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarEntrada.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarProductos.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarProveedores.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarSalida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Menu.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Menu2.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Notificaciones.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Principal.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.SolicitudCompra.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Splash.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Usuarios.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.ReporteFecha.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\itextsharp.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\itextsharp.xmlworker.dll
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\itextsharp.xml
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.NEntrada.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.NSalida.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Dashboard2.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarCategoria.resources
+D:\Luis David\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.ReporteBitacora.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaVista.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaVista.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaControlador.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CircularProgressBar.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\itextsharp.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\itextsharp.xmlworker.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\WinFormAnimation.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaModelo.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\stdole.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CircularProgressBar.xml
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\itextsharp.xml
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Dashboard2.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Bienvenida.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarCategoria.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.NEntrada.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Bitacora.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarEntrada.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarInventario.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarProducto.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.BuscarSalida.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Dashboard.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarAlmacen.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarEntrada.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarProductos.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarProveedores.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.IngresarSalida.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Menu.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Menu2.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Notificaciones.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.NSalida.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Principal.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.ReporteBitacora.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.ReporteFecha.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.SolicitudCompra.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Splash.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.Usuarios.resources
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.dll
+D:\Luis\UMG\1, 2023\Proyecto de Graduacion 2\Software\Gestor_Inventarios\GestorInventarios\CapaVista\obj\Debug\CapaVista.pdb
